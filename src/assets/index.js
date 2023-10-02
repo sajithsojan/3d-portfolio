@@ -7,6 +7,9 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
+import c from "./tech/c.png";
+import cplus from "./tech/cplus.png";
+import java from "./tech/java.png";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -23,7 +26,7 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
+import nest from "./company/nest.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
@@ -40,6 +43,9 @@ export {
   menu,
   close,
   css,
+  c,
+  cplus,
+  java,
   docker,
   figma,
   git,
@@ -54,7 +60,7 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
+  nest,
   tesla,
   carrent,
   jobit,
